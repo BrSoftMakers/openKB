@@ -174,5 +174,11 @@
 	"Password incorrect. Please try again.": "Senha inválida. Por favor tente novamente.",
 	"Versions": "Versões",
 	"Edit reason": "Editar motivo",
-	"Previous versions": "Versões anteriores"
+	"Previous versions": "Versões anteriores",
+	"Style": "Style",
+	"User is admin?": "User is admin?",
+	"User account updated.": "User account updated.",
+	"Visible state": "Visible state",
+	"Public": "Public",
+	"Private": "Private"
 }
